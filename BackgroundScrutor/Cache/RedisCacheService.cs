@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using StackExchange.Redis;
 
-namespace BackgroundScrutor
+namespace BackgroundScrutor.Cache
 {
     public class RedisCacheService : ICacheService
     {

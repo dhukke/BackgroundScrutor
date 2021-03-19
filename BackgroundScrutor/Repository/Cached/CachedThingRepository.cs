@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
+using BackgroundScrutor.Cache;
 
-namespace BackgroundScrutor
+namespace BackgroundScrutor.Repository.Cached
 {
     public class CachedThingRepository : IThingRepository
     {

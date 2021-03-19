@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace BackgroundScrutor
+namespace BackgroundScrutor.Repository
 {
     public class ThingRepository : IThingRepository
     {

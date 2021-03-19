@@ -1,3 +1,6 @@
+using BackgroundScrutor.Cache;
+using BackgroundScrutor.Repository;
+using BackgroundScrutor.Repository.Cached;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;

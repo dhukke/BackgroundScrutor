@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace BackgroundScrutor
+namespace BackgroundScrutor.Cache
 {
     public interface ICacheService
     {
